@@ -1,10 +1,12 @@
 # Express Dev Simulator Playground
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7.svg?style=for-the-badge&logo=render)](https://express-dev-simulator-demo.onrender.com/)
 [![npm version](https://img.shields.io/badge/npm-express--dev--simulator%401.0.0-cb3837.svg?style=flat-square&logo=npm)](https://www.npmjs.com/package/express-dev-simulator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg?style=flat-square&logo=node.js)](https://nodejs.org)
 [![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61dafb.svg?style=flat-square&logo=react)](https://vitejs.dev)
-[![Render](https://img.shields.io/badge/Deploy-Render-46E3B7.svg?style=flat-square&logo=render)](https://render.com)
+
+> 🚀 **Live Deployed Application:** **[https://express-dev-simulator-demo.onrender.com/](https://express-dev-simulator-demo.onrender.com/)**
 
 A comprehensive, production-grade developer demonstration playground for the published npm package **[`express-dev-simulator`](https://www.npmjs.com/package/express-dev-simulator)** (version `1.0.0`).
 
@@ -263,7 +265,7 @@ No custom secrets are required. Render automatically supplies:
 ### Step 5: Deploy
 1. Click **Deploy Web Service**.
 2. Render will run `npm install && npm run build` and then start the server with `npm start`.
-3. Once the build completes, Render will provide your public URL (e.g., `https://express-dev-simulator-demo.onrender.com`).
+3. The application is live at: **[https://express-dev-simulator-demo.onrender.com/](https://express-dev-simulator-demo.onrender.com/)**.
 4. Open the URL to interact with the live playground!
 
 ---

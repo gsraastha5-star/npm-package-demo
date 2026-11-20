@@ -255,6 +255,10 @@ export default function App() {
           <strong>Express Dev Simulator Playground</strong> &bull; Demonstrating published npm package <code>express-dev-simulator@1.0.0</code>
         </div>
         <div className="footer-links">
+          <a href="https://express-dev-simulator-demo.onrender.com/" target="_blank" rel="noopener noreferrer">
+            Live Demo (Render)
+          </a>
+          <span>&bull;</span>
           <a href="https://www.npmjs.com/package/express-dev-simulator" target="_blank" rel="noopener noreferrer">
             npm Registry
           </a>

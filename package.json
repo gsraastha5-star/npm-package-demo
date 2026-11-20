@@ -1,0 +1,32 @@
+{
+  "name": "express-dev-simulator-demo",
+  "version": "1.0.0",
+  "description": "Express Dev Simulator Playground - Interactive developer demo for the express-dev-simulator npm package",
+  "main": "server/index.js",
+  "scripts": {
+    "build": "vite build",
+    "prestart": "npm run build",
+    "start": "node server/index.js",
+    "dev": "node server/index.js",
+    "dev:client": "vite",
+    "test": "node test/api.test.js"
+  },
+  "keywords": [
+    "express",
+    "express-dev-simulator",
+    "latency-simulation",
+    "failure-simulation",
+    "developer-tools",
+    "playground"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.3.0",
+    "express": "^4.19.2",
+    "express-dev-simulator": "^1.0.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "vite": "^8.3.8"
+  }
+}
